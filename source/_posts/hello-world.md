@@ -19,6 +19,8 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 $ hexo server
 ```
 
+这是一篇测试文件
+
 More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
@@ -33,6 +35,13 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ``` bash
 $ hexo deploy
+```
+
+``` js
+	const a = (res) => {
+		return true;
+	}
+
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
